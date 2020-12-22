@@ -1,0 +1,8 @@
+apache memudahkan pemilik website untuk mmebuat konten di web. Dan Karena itulah
+software dikuti dengan kata 'web server'. Apache adalah salah satu web server teretua dan dapat dianadlakan.
+User pertamanya telah dilirih lebih dari 20 tahun yang lalu tepatnya pada tahun 1995.
+Ketika seseorang hendak mengakses suatu website. Ia harus memasukan nama domain ke kolom alamat pada
+browser. setlah itu webiste server akan mengirimkan file ang di minta. Dalam hal ini, serber berperan sebagai
+pengirim virtual.
+meskipun disebut sebagai web serber, apace tidak hanya dalam bentuk sever fisik, software yang menjalankan
+sebuah server.
